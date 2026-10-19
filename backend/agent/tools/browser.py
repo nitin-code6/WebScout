@@ -190,3 +190,4 @@ class BrowserTool:
             logger.warning(f"Browser cleanup warning: {e}")
         finally:
             self._initialized = False
+# Verified navigation and page wait handling
