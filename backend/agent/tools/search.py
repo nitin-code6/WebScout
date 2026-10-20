@@ -108,4 +108,3 @@ class WebSearchTool:
             }
             for r in data.get("webPages", {}).get("value", [])[:n]
         ]
-# Added Bing search api fallback check
