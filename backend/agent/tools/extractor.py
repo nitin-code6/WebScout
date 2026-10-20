@@ -120,4 +120,3 @@ TEXT TO EXTRACT FROM:
             if rows:
                 tables.append({"headers": headers, "rows": rows})
         return {"success": True, "tables": tables, "count": len(tables)}
-# Added html table parsing support via BeautifulSoup4
