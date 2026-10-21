@@ -397,3 +397,4 @@ class WebScoutAgent:
 
 NexusAgent = WebScoutAgent
 
+# Integrated ReAct system prompt and decision loop
