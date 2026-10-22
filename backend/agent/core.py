@@ -397,3 +397,4 @@ class WebScoutAgent:
 
 NexusAgent = WebScoutAgent
 
+# Error recovery and auto-replan support
