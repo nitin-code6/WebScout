@@ -220,3 +220,4 @@ async def execute_agent_task(job_id: str, task: str, mode: str, max_steps: int):
         if job["status"] == "running":
             job["status"] = "complete"
         await agent.cleanup()
+# Endpoints for task creation and status tracking
