@@ -397,4 +397,3 @@ class WebScoutAgent:
 
 NexusAgent = WebScoutAgent
 
-# Injected browser instance into form filler
