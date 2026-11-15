@@ -372,4 +372,3 @@ Confidence score: 91%
 
   return { run, stop, isRunning: () => running };
 })();
-// Smooth step transition timings
