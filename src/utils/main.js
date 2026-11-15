@@ -159,4 +159,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 console.log('%c WebScout Agent Platform ', 'background: #00FFB2; color: #060810; font-weight: bold; font-size: 16px; padding: 8px 16px;');
 console.log('%c Autonomous AI Agent Platform', 'color: #7A8BA0; font-size: 12px;');
-// Final WebScout branding verification
